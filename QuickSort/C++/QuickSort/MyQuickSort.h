@@ -13,7 +13,7 @@
 std::string printArray(std::vector<int> &a);
 
 /*
- * Main Quick Sort method, called recusively to split vector into smaller
+ * Main Quick Sort method, called recursively to split vector into smaller
  * vectors and sort until vector is completely sorted.
  */
 
