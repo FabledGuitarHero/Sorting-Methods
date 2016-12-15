@@ -14,7 +14,7 @@ std::string printArray(std::vector<int> &a);
 
 /*
  * Main Quick Sort method, called recursively to split vector into smaller
- * vectors and sort until vector is completely sorted.
+ * vectors and sort until vector is completely sorted.   
  */
 
 void QuickSort (std::vector<int> &a, int low, int high){
