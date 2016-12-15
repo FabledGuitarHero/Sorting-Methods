@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "22759CE4363FA5D0530E90ECE6F08C0635365614",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "22759CE4363FA5D0530E90ECE6F08C0635365614" : 9223372036854775807,
+    "EC30F496888DD24C1A943715666CF7A7722F23D6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8914461A-88E6-469E-8460-221E3B7C39D2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "22759CE4363FA5D0530E90ECE6F08C0635365614" : "MergeSort\/",
+    "EC30F496888DD24C1A943715666CF7A7722F23D6" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MergeSort",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "C++\/MergeSort.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FabledGuitarHero\/MergeSort.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "22759CE4363FA5D0530E90ECE6F08C0635365614"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/FabledGuitarHero\/Portfolio.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC30F496888DD24C1A943715666CF7A7722F23D6"
+    }
+  ]
+}
